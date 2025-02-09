@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "784546985036",
+    "project_id": "speedd-f9665",
+    "storage_bucket": "speedd-f9665.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784546985036:android:15559fd10c0480ab36b0e9",
+        "android_client_info": {
+          "package_name": "com.speedd"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAy5YlmTyaz_9hD1SWLupZgQV2A85c6m2A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
